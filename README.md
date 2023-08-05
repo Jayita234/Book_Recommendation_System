@@ -1,2 +1,2 @@
 # Book_Recommendation_System
-I developed this Recommendation system on books
+I developed this Recommender system on books using python
